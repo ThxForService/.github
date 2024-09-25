@@ -29,7 +29,7 @@
 - **프로그래밍 언어**: Java, JavaScript  
 - **백엔드 개발**: Spring Boot  
 - **프론트엔드 개발**: React  
-- **데이터베이스**: MySQL  
+- **데이터베이스**: Oracle
 - **DevOps**: Docker, AWS EC2
 
 ---
