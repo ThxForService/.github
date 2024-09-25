@@ -1,12 +1,76 @@
-## Hi there 👋
+# 프로젝트명: 상담관리솔루션 (University Counseling Management System)
 
-<!--
+## 1. 프로젝트 개요
 
-**Here are some ideas to get you started:**
+**개발 기간**:  
+2024/09/01 ~ 2024/09/27
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**개발 배경**:  
+이 프로젝트는 대학교 심리상담센터에서 효과적인 상담 예약 및 관리를 위해 웹 솔루션을 개발하는 것을 목표로 합니다. 학생과 상담사 간의 효율적인 커뮤니케이션을 돕고, 상담 기록을 체계적으로 관리하여 상담 경험을 향상시키는 데 중점을 두고 있습니다.
+
+**주요 기능**:
+- **상담 예약 관리**: 학생들이 직접 상담 예약을 할 수 있으며, 상담사에게 자동 배정됩니다.
+- **상담 기록 관리**: 상담사가 학생의 상담 기록을 저장하고 관리할 수 있습니다.
+- **상담 유형 및 상태 관리**: 상담 유형(개인 상담, 그룹 상담 등)과 상담 상태(대기, 진행 중, 완료 등)를 관리하는 기능을 포함합니다.
+- **설문조사 기능**: 상담 후 설문조사를 통해 피드백을 수집하고 결과를 분석합니다.
+- **메모 및 노트**: 상담과 관련된 추가 메모를 남길 수 있는 기능을 제공합니다.
+
+**기대 효과**:  
+- 상담 예약 및 진행 과정을 전산화하여 업무 효율성을 높일 수 있습니다.
+- 상담 기록을 체계적으로 관리하여 상담 품질을 향상시킵니다.
+- 설문조사 데이터를 바탕으로 상담 서비스의 품질을 평가하고 개선할 수 있습니다.
+
+---
+
+## 2. 개발 환경 및 기술 스택
+
+- **프로그래밍 언어**: Java, JavaScript  
+- **백엔드 개발**: Spring Boot  
+- **프론트엔드 개발**: React  
+- **데이터베이스**: MySQL  
+- **DevOps**: Docker, AWS EC2
+
+---
+
+## 3. 팀원 소개 및 역할 분담
+
+- **팀원 A**: 백엔드 개발 및 DB 설계  
+- **팀원 B**: 프론트엔드 개발 및 UI/UX 디자인  
+- **팀원 C**: 설문조사 모듈 개발 및 통계 분석 기능 구현  
+
+---
+
+## 4. 유저 플로우 (User Flow)
+
+- **학생**: 회원 가입 → 로그인 → 상담 예약 → 상담사 배정 → 상담 진행 → 설문조사 참여  
+- **상담사**: 로그인 → 상담 예약 확인 → 상담 진행 → 상담 기록 저장  
+
+---
+
+## 5. 기능 명세서
+
+- **상담 예약 시스템**: 학생이 원하는 시간에 상담을 예약할 수 있는 기능.  
+- **상담 상태 관리**: 상담 진행 상태를 실시간으로 확인 가능.  
+- **상담사 배정 시스템**: 예약 시점에 가용한 상담사를 자동 배정하는 로직 구현.  
+- **설문조사 모듈**: 상담 후 설문 데이터를 수집하고 시각화.
+
+---
+
+## 6. ERD
+
+(ERD 다이어그램 이미지 삽입)
+
+---
+
+## 7. 프로젝트 일정표
+
+- **1주차**: 프로젝트 기획 및 요구사항 분석  
+- **2주차**: DB 설계 및 기본 기능 개발  
+- **3주차**: 프론트엔드 구현 및 테스트  
+- **4주차**: 통합 테스트 및 배포  
+
+---
+
+## 8. 화면 설계
+
+(화면 설계 이미지 삽입)
