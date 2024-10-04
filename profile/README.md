@@ -2,8 +2,15 @@
 
 ## 1. 프로젝트 개요
 
-**시연 영상**
-- [시연영상 바로가기](https://youtu.be/47nQ1yoZNvw)
+**thxforservice 바로가기**
+🔗[thxforservice](http://thxforservice.xyz/)
+
+![상담로고](https://github.com/user-attachments/assets/6e9527c7-51b4-4383-bd58-c1e64c09ece8)
+
+**thxforservice 시연 영상**
+
+[시연영상 보러가기(YouTube)](https://youtu.be/47nQ1yoZNvw)
+![상담 사이트 썸네일](https://github.com/user-attachments/assets/18803ed4-5c82-445f-a925-32f5c00160cb)
 
 **개발 기간**:  
 2024/09/01 ~ 2024/09/27
